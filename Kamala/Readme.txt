@@ -1,3 +1,5 @@
+Removed the file odd.py from assignment01 
+created another file assignment02 and inserted odd.py in it.
 This is initial readme file. 
 
 Adding new file to assignment01 - which check a given number is even or not

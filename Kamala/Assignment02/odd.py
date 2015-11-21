@@ -1,4 +1,4 @@
-x = input("Please Enter A Number:")
+x = input("PLEASE ENTER A NUMBER")
 if x % 2 != 0:
 	print x, "is an odd number"
 else:
